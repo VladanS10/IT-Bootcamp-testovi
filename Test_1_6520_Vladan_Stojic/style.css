@@ -19,6 +19,7 @@ nav ul li a {
     color: black;
     padding: 5px 0 0 10px;
     display: block;
+    height: 25px;	
 
 }
 nav ul li a:hover {
